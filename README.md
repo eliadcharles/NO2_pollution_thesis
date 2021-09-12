@@ -26,3 +26,8 @@ Folder contains all data and code necessary to reproduce models and figures.
 	- Code for visualization of variable combinations
 
 7) model_comparison.ipynb contains code which compares LSTM, CNN_LSTM and Prophet hourly NO2 distributions. 
+
+DATA
+pvr_2016-01-01_1591d_Sharston.csv - sharston traffic data
+pvr_2016-01-01_1597d_portland.csv - piccadilly traffic data 
+AURN_metadata.RData - metadata to get picadilly and sharston data
